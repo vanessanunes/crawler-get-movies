@@ -4,7 +4,6 @@
 from flask import Flask, jsonify
 from bs4 import BeautifulSoup
 import requests
-# import json
 
 app = Flask(__name__)
 app.debug = True
