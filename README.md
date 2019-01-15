@@ -3,12 +3,12 @@
 
 ## Criar virtualenv:
 
-```python -m venv myvenv```
+```$ python -m venv myvenv```
 
 
 ## Para entrar no virtualenv:
 
-```. myvenv/bin/activate```
+```$ . myvenv/bin/activate```
 
 
 ## Instale os requirements
@@ -16,6 +16,14 @@
 ```$ venv/bin/pip install -r requirements.txt```
 
 
+## Rode a aplicação
+
+```$ python filmesEmCartaz.py```
+
+
+## Acesse pelo navegador
+
+```http://localhost:xxxx/```
 
 
 ### fonte do tutorial:

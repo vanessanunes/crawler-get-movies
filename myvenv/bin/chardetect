@@ -1,4 +1,4 @@
-#!/home/digesto19/projects/crawler-exemplo/myvenv/bin/python3
+#!/home/digesto19/projects/crawler-exemplo/myvenv/bin/python
 
 # -*- coding: utf-8 -*-
 import re
