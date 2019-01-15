@@ -38,6 +38,4 @@ class Locatario(db.Model):
     def __repr__(self):
         return '<Locatario %r>' % self.nome
 
-
-
 ### não fiz completo pq falta o banco, fazer postgres :(
