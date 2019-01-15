@@ -1,4 +1,4 @@
-# aprendendo-api
+# crawler-exemplo
 
 
 ## Criar virtualenv:
@@ -11,18 +11,17 @@
 ```. myvenv/bin/activate```
 
 
-## Execute o requirements
+## Instale os requirements
 
 ```$ venv/bin/pip install -r requirements.txt```
 
 
 
 
-#####ler sobre
+### fonte do tutorial:
 
 
-Tutorial: https://codigosimples.net/2017/05/15/criando-uma-api-de-filmes-em-cartaz-usando-python-e-heroku/
+* https://codigosimples.net/2017/05/15/criando-uma-api-de-filmes-em-cartaz-usando-python-e-heroku/
 
 
 https://marshmallow.readthedocs.io/en/3.0/
-# crawler-exemplo
