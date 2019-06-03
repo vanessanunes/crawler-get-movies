@@ -11,7 +11,7 @@ app.debug = True
 
 @app.route("/teste")
 def hello():
-    return "Acesse <a href='/home'>aqui</a>"
+    return "Acesse <a href='/'>aqui</a>"
 
 
 @app.route('/', methods=['GET'])
